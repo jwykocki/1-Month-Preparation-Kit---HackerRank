@@ -10,3 +10,16 @@ Permuting Two Arrays
 Sparse Arrays  
 Time Conversion  
 XOR Strings 2  
+## Week 2:    
+Counter Game   
+Dynamic Array  
+Max Min  
+Recursive Digit Sum  
+Sherlock and Array  
+Tower Breakers  
+Drawing Book   
+Grid Challenge  
+Prime Dates   
+Sales by Match  
+Sum vs XOR   
+Zig Zag Sequence  
