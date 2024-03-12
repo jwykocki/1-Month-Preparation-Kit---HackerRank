@@ -23,3 +23,18 @@ Prime Dates
 Sales by Match  
 Sum vs XOR   
 Zig Zag Sequence  
+## Week 3:  
+Balanced Brackets                                        
+Reverse a double linked list  
+Climbing the Leaderboard                                 
+Reverse a linked list  
+Ice Cream Parlor                                         
+Sherlock and the Valid String  
+Insert a node at a specific position in a linked list    
+Simple Text Editor  
+Merge two sorted linked list                             
+The Bomberman Game  
+New Year Chaos                                           
+Waiter  
+Queue using Two Stacks    
+Between Two Sets
